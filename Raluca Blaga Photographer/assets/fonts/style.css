@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'SawarabiMincho-Regular';
+   font-display: swap;
+   src: url('SawarabiMincho-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Raleway-VariableFont_wght';
+   font-display: swap;
+   src: url('Raleway-VariableFont_wght/font.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-VariableFont_wght';
+   font-display: swap;
+   src: url('Montserrat-VariableFont_wght/font.ttf');
+}
+@font-face {
+   font-family: 'Forum-Regular';
+   font-display: swap;
+   src: url('Forum-Regular/font.ttf');
+}
